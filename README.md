@@ -29,6 +29,7 @@
   <h2>✨ Activity</h2>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/ngn13/nice-art/pull/1) in [ngn13/nice-art](https://github.com/ngn13/nice-art)
 <!--END_SECTION:activity-->
 
 </div>
