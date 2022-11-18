@@ -21,7 +21,8 @@
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
-
+<br>
+<br>
 <details>
   <summary>✨ Activity</summary>
   
@@ -29,7 +30,7 @@
 <!--END_SECTION:activity-->
 
 </details>
-
+<br>
 <details>
   <summary>⚡ Stats</summary>
 
