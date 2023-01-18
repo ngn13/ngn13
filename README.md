@@ -26,4 +26,4 @@
 <br>
 <br>
 <h3>✨ Stats and Activity</h3>
-<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=ngn13&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+![ngn's stats](https://github-readme-stats.vercel.app/api?username=ngn13)
