@@ -25,5 +25,3 @@
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
 <br>
 <br>
-<h3>✨ Stats and Activity</h3>
-![ngn's stats](https://github-readme-stats.vercel.app/api?username=ngn13)
