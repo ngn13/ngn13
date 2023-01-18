@@ -27,6 +27,3 @@
 <br>
 <h3>✨ Stats and Activity</h3>
 <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=ngn13&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ngn13/nice-art/pull/1) in [ngn13/nice-art](https://github.com/ngn13/nice-art)
-<!--END_SECTION:activity-->
