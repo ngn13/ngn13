@@ -1,27 +1,43 @@
-# Hi 👋 - I'm ngn!
+<h1 align="center">
+    [ngn] | github
+    <br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=ngn13&count_private=true&show_icons=true&theme=dark">
+    <br>
+</h1>
 
-## I'm a highschool student insterested in:
-- ⚙️ Computer hardware
-- 🔌 Electronics
-- 🖥️ Programming
-- 🔒 Cyber security
-- 🐧 Linux
+```
+I'm interested in...
+```
+<h3 float="left">
+    <ul decoration="none">
+      <li>Computer hardware ⚙️</li>
+      <li>Cyber security 🔒</li>
+      <li>Programming 🖥️</li>
+      <li>Electronics 🔌</li>
+      <li>Linux 🐧</li>
+    </ul>
+    <br>
+</h3>
 
-### Contact with me
-[![Discord](assets/discord.png)](https://discord.com/users/568131907368386565)
-[![Mail](assets/mail.png)](mailto:ngn13proton@proton.me)
-[<img width="20px" src="https://assets.tryhackme.com/img/favicon.png">](https://tryhackme.com/p/ngn)
-
-### Languages and Tools that I'm learning
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
-<br>
-<br>
+```
+ Socials & Links
+```
+<h3 float="left">
+  <ul decoration="none">
+      <li> 
+        <img src="https://img.shields.io/static/v1?label=Matrix&message=@ngn:matrix.ngn13.fun&color=blue&style=for-the-badge&logo=matrix">
+      </li>
+      <li>  
+        <a href="https://tryhackme.com/p/ngn">
+          <img src="https://img.shields.io/static/v1?label=TryHackMe&message=ngn&color=red&style=for-the-badge&logo=tryhackme">
+        </a>
+      </li>
+      <li>
+        <a href="https://ngn13.fun">
+          <img src="https://img.shields.io/static/v1?label=Webstie&message=ngn13.fun&color=green&style=for-the-badge&logo=nuxtdotjs">
+        </a>
+      </li>
+   </ul>
+   <br>
+</h3>
