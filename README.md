@@ -6,38 +6,39 @@
     <br>
 </h1>
 
-```
-I'm interested in...
+```bash
+> I am interested in...
 ```
 <h3 float="left">
     <ul decoration="none">
-      <li>Computer hardware ⚙️</li>
       <li>Cyber security 🔒</li>
       <li>Programming 🖥️</li>
       <li>Electronics 🔌</li>
-      <li>Linux 🐧</li>
     </ul>
     <br>
 </h3>
 
+```bash
+> Stuff that I use
 ```
- Socials & Links
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,express,mongodb,vue,svelte,nuxt,python,go,c,linux,aws,git,neovim" />
+</p>
+<br>
+<br>
+
+```bash
+> Socials & Links
 ```
-<h3 float="left">
-  <ul decoration="none">
-      <li> 
-        <img src="https://img.shields.io/static/v1?label=Matrix&message=@ngn:matrix.ngn13.fun&color=blue&style=for-the-badge&logo=matrix">
-      </li>
-      <li>  
-        <a href="https://tryhackme.com/p/ngn">
-          <img src="https://img.shields.io/static/v1?label=TryHackMe&message=ngn&color=red&style=for-the-badge&logo=tryhackme">
-        </a>
-      </li>
-      <li>
-        <a href="https://ngn13.fun">
-          <img src="https://img.shields.io/static/v1?label=Webstie&message=ngn13.fun&color=green&style=for-the-badge&logo=nuxtdotjs">
-        </a>
-      </li>
-   </ul>
-   <br>
-</h3>
+
+<div align="center">
+    <a href="https://ngn13.fun">
+        <img src="https://img.shields.io/static/v1?label=Webstie&message=ngn13.fun&color=green&style=for-the-badge&">
+    </a>
+    <a href="https://mastodon.social/@ngn">
+        <img src="https://img.shields.io/static/v1?label=Mastodon&message=@ngn&color=red&style=for-the-badge">
+    </a>
+    <img src="https://img.shields.io/static/v1?label=Matrix&message=@ngn:matrix.ngn13.fun&color=blue&style=for-the-badge">
+</div>
+
+<br>
