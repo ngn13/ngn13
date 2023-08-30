@@ -38,7 +38,7 @@
     <a href="https://mastodon.social/@ngn">
         <img src="https://img.shields.io/static/v1?label=Mastodon&message=@ngn&color=red&style=for-the-badge">
     </a>
-    <img src="https://img.shields.io/static/v1?label=Matrix&message=@ngn:matrix.ngn13.fun&color=blue&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?label=XMPP&message=ngn@chat.ngn13.fun&color=blue&style=for-the-badge">
 </div>
 
 <br>
