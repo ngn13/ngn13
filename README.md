@@ -1,4 +1,3 @@
-# [ngn] | github
 <a href="https://github.com/ngn13">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ngn13&count_private=true&show_icons=true&theme=dark" />
 </a>
