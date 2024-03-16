@@ -26,6 +26,10 @@
 ### Tools/Libraries
 - [ctorm](https://github.com/ngn13/ctorm): Simple web framework for C
 - [ipcp](https://github.com/ngn13/ipcp): CLI tool to copy your IP
+- [statpage](https://github.com/ngn13/statpage): Minimal status page application
+- [xbot](https://github.com/ngn13/xbot): Modular XMPP bot
+- [kisalt](https://github.com/ngn13/kisalt): Simple link shortener
+- [note-server](https://github.com/ngn13/note-server): Web server to host your markdown notes 
 
 ### Docs/Tutorials
 - [k101](https://github.com/ngn13/k101): Docs for learning kernel hacking (🇹🇷)
