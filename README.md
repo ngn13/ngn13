@@ -14,6 +14,7 @@
 - [massacr](https://github.com/ngn13/massacr): Mass IP/port scanner
 - [ezcat](https://github.com/ngn13/ezcat): Web interface for managing multiple reverse shells
 - [venom](https://github.com/ngn13/venom): Free and open source info-stealer
+- [lokpack](https://github.com/ngn13/lokpack): Ransomware tooling for x84_64 Linux
 - [shellexec](https://github.com/ngn13/shellexec): Encrypted shellcode launcher
 - [pufferphish](https://github.com/ngn13/pufferphish): Phishing toolkit
 
