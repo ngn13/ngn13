@@ -34,7 +34,7 @@
 
 ### Docs/Tutorials
 - [k101](https://github.com/ngn13/k101): Docs for learning kernel hacking (🇹🇷)
-
+- [darknets](https://github.com/ngn13/darknets): A list of different darknet systems (🇹🇷)
 
 
 ---
