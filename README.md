@@ -22,7 +22,7 @@
 - [MatterLinux](https://matterlinux.xyz): Tiny and independent GNU/Linux distribution
 - [casperwm](https://github.com/ngn13/casperwm): Simple X11 window manager
 - [lspp](https://github.com/ngn13/lspp): Minimal alternative to coreutils' ls
-- [busybox-linux](https://github.com/ngn13/busybox-linux): Simple busybox/linux setup
+- [kbuild](https://github.com/ngn13/kbuild): Kernel build script for development/hacking
 
 ### Tools/Libraries
 - [ctorm](https://github.com/ngn13/ctorm): Simple web framework for C
