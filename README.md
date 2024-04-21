@@ -34,6 +34,7 @@
 
 ### Docs/Tutorials
 - [k101](https://github.com/ngn13/k101): Docs for learning kernel hacking (🇹🇷)
+- [o101](https://github.com/ngn13/o101): Learn about buffer overflows (🇹🇷)
 - [darknets](https://github.com/ngn13/darknets): A list of different darknet systems (🇹🇷)
 
 
