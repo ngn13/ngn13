@@ -18,15 +18,15 @@
 - [shellexec](https://github.com/ngn13/shellexec): Encrypted shellcode launcher
 - [pufferphish](https://github.com/ngn13/pufferphish): Phishing toolkit
 
-#### UNIX and GNU/Linux
+#### OS Development/Hacking
 - [MatterLinux](https://matterlinux.xyz): Tiny and independent GNU/Linux distribution
-- [lspp](https://github.com/ngn13/lspp): Minimal alternative to coreutils' ls
 - [kbuild](https://github.com/ngn13/kbuild): Kernel build script for development/hacking
 - [sdx](https://github.com/ngn13/sdx): Simple x86_64 UNIX like hobby OS
 
 #### Tools/Libraries
 - [ctorm](https://github.com/ngn13/ctorm): Simple web framework for C
 - [ipcp](https://github.com/ngn13/ipcp): CLI tool to copy your IP
+- [lspp](https://github.com/ngn13/lspp): Minimal alternative to coreutils' ls
 - [statpage](https://github.com/ngn13/statpage): Minimal status page application
 - [xbot](https://github.com/ngn13/xbot): Modular XMPP bot
 - [kisalt](https://github.com/ngn13/kisalt): Simple link shortener
