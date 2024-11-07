@@ -18,11 +18,11 @@
 - [shellexec](https://github.com/ngn13/shellexec): Encrypted shellcode launcher
 - [pufferphish](https://github.com/ngn13/pufferphish): Phishing toolkit
 
-#### Linux
+#### UNIX and GNU/Linux
 - [MatterLinux](https://matterlinux.xyz): Tiny and independent GNU/Linux distribution
-- [casperwm](https://github.com/ngn13/casperwm): Simple X11 window manager
 - [lspp](https://github.com/ngn13/lspp): Minimal alternative to coreutils' ls
 - [kbuild](https://github.com/ngn13/kbuild): Kernel build script for development/hacking
+- [sdx](https://github.com/ngn13/sdx): Simple x86_64 UNIX like hobby OS
 
 #### Tools/Libraries
 - [ctorm](https://github.com/ngn13/ctorm): Simple web framework for C
@@ -39,8 +39,6 @@
 - [o101](https://github.com/ngn13/o101): Learn about buffer overflows (🇹🇷)
 - [darknets](https://github.com/ngn13/darknets): A list of different darknet systems (🇹🇷)
 
-#### Other
-- [sdx](https://github.com/ngn13/sdx): a simple x86_64 UNIX like hobby OS
 
 ---
 
