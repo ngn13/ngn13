@@ -10,7 +10,7 @@
 ## 🗃️ Projects
 #### Security
 - [cerez](https://github.com/ngn13/cerez): `LD_PRELOAD` user-space rootkit
-- [wkit](https://github.com/ngn13/wkit): A LKM rootkit for modern kernels
+- [shrk](https://github.com/ngn13/shrk): LKM rootkit for modern kernels
 - [massacr](https://github.com/ngn13/massacr): Mass IP/port scanner
 - [ezcat](https://github.com/ngn13/ezcat): Web interface for managing multiple reverse shells
 - [venom](https://github.com/ngn13/venom): Free and open source info-stealer
