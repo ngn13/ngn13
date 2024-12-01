@@ -35,11 +35,9 @@
 - [mdindex](https://github.com/ngn13/mdindex): Script to create index (catalog) from markdown headers
 
 #### Docs/Tutorials
-- [k101](https://github.com/ngn13/k101): Docs for learning kernel hacking (🇹🇷)
-- [o101](https://github.com/ngn13/o101): Learn about buffer overflows (🇹🇷)
-- [darknets](https://github.com/ngn13/darknets): A list of different darknet systems (🇹🇷)
-
+- [k101](https://github.com/ngn13/k101): Docs for learning kernel hacking (Turkish 🇹🇷)
+- [o101](https://github.com/ngn13/o101): Learn about buffer overflows (Turkish 🇹🇷)
 
 ---
 
-[Website](https://ngn.tf) • [Mastodon](https://mastodon.social/@ngn) • [Tryhackme](https://tryhackme.com/p/ngn)
+[Email](mailto:ngn@ngn.tf) • [Website](https://ngn.tf) • [Mastodon](https://mastodon.social/@ngn) • [TryHackMe](https://tryhackme.com/p/ngn)
