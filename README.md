@@ -35,8 +35,8 @@
 - [mdindex](https://github.com/ngn13/mdindex): Script to create index (catalog) from markdown headers
 
 #### Docs/Tutorials
-- [k101](https://github.com/ngn13/k101): Docs for learning kernel hacking (Turkish 🇹🇷)
-- [o101](https://github.com/ngn13/o101): Learn about buffer overflows (Turkish 🇹🇷)
+- [kernel-101](https://github.com/ngn13/kernel-101): Learn about kernel hacking (Turkish 🇹🇷)
+- [overflow-101](https://github.com/ngn13/overflow-101): Learn about memory overflows (Turkish 🇹🇷)
 
 ---
 
