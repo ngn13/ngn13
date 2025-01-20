@@ -26,8 +26,7 @@
 #### Tools/Libraries
 - [ctorm](https://github.com/ngn13/ctorm): Simple web framework for C
 - [ipcp](https://github.com/ngn13/ipcp): CLI tool to copy your IP
-- [lspp](https://github.com/ngn13/lspp): Minimal alternative to coreutils' ls
-- [statpage](https://github.com/ngn13/statpage): Minimal status page application
+- [lspp](https://github.com/ngn13/lspp): Minimal alternative to coreutils' lsn
 - [xbot](https://github.com/ngn13/xbot): Modular XMPP bot
 - [kisalt](https://github.com/ngn13/kisalt): Simple link shortener
 - [note-server](https://github.com/ngn13/note-server): Web server to host your markdown notes
