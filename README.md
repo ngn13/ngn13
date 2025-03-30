@@ -39,4 +39,4 @@
 
 ---
 
-[Email](mailto:ngn@ngn.tf) • [Website](https://ngn.tf) • [Mastodon](https://mastodon.social/@ngn) • [TryHackMe](https://tryhackme.com/p/ngn)
+[Email](mailto:ngn@ngn.tf) • [Website](https://ngn.tf) • [Mastodon](https://defcon.social/@ngn) • [TryHackMe](https://tryhackme.com/p/ngn)
