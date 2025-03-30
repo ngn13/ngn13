@@ -21,7 +21,7 @@
 #### OS Development/Hacking
 - [MatterLinux](https://matterlinux.xyz): Tiny and independent GNU/Linux distribution
 - [kbuild](https://github.com/ngn13/kbuild): Kernel build script for development/hacking
-- [sdx](https://github.com/ngn13/sdx): Simple x86_64 UNIX like hobby OS
+- [sdx](https://github.com/ngn13/sdx): Simple UNIX like x86-64 hobby OS
 
 #### Tools/Libraries
 - [ctorm](https://github.com/ngn13/ctorm): Simple web framework for C
