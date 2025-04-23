@@ -29,7 +29,7 @@
 - [lspp](https://github.com/ngn13/lspp): Minimal alternative to coreutils' lsn
 - [xbot](https://github.com/ngn13/xbot): Modular XMPP bot
 - [kisalt](https://github.com/ngn13/kisalt): Simple link shortener
-- [note-server](https://github.com/ngn13/note-server): Web server to host your markdown notes
+- [teawiki](https://github.com/ngn13/teawiki): Simple git based wiki software
 - [mdindex](https://github.com/ngn13/mdindex): Script to create index (catalog) from markdown headers
 - [ortam](https://github.com/ngn13/ortam): Environment variable based configuration library for Go
 
