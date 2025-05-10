@@ -1,5 +1,5 @@
 I only have personal repos here, for my self-hosting related repos check out:
-https://git.ngn.tf/ngn13
+https://git.ngn.tf/ngn
 
 ## statistics
 
