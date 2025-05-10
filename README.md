@@ -1,6 +1,3 @@
-I only have personal repos here, for my self-hosting related repos check out:
-https://git.ngn.tf/ngn
-
 ## statistics
 
 <a href="https://github.com/ngn13">
@@ -10,7 +7,7 @@ https://git.ngn.tf/ngn
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngn13&hide=css,html,Dockerfile,Makefile&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-## repositories
+## projects
 
 ### security
 
@@ -45,6 +42,9 @@ https://git.ngn.tf/ngn
   from markdown headers
 - [ortam](https://github.com/ngn13/ortam): Environment variable based
   configuration library for Go
+- [ups](https://git.ngn.tf/ngn/ups): Collection of scripts for managing my
+  personal forks
+- [tren](https://git.ngn.tf/ngn/tren): Frontend for tureng.com
 
 ### docs/tutorials
 
@@ -52,6 +52,11 @@ https://git.ngn.tf/ngn
   (Turkish 🇹🇷)
 - [overflow-101](https://github.com/ngn13/overflow-101): Learn about memory
   overflows (Turkish 🇹🇷)
+
+### personal
+
+- [website](https://git.ngn.tf/ngn/website): My personal website
+- [news](https://git.ngn.tf/ngn/news): News feed of my website
 
 ---
 
