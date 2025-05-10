@@ -9,7 +9,7 @@
 
 ## projects
 
-### security
+#### security
 
 - [cerez](https://github.com/ngn13/cerez): `LD_PRELOAD` user-space rootkit
 - [shrk](https://github.com/ngn13/shrk): LKM rootkit for modern kernels
@@ -22,7 +22,7 @@
 - [shellexec](https://github.com/ngn13/shellexec): Encrypted shellcode launcher
 - [pufferphish](https://github.com/ngn13/pufferphish): Phishing toolkit
 
-### OS development/hacking
+#### OS development/hacking
 
 - [MatterLinux](https://matterlinux.xyz): Tiny and independent GNU/Linux
   distribution
@@ -30,7 +30,7 @@
   development/hacking
 - [sdx](https://github.com/ngn13/sdx): Simple UNIX like x86-64 hobby OS
 
-### tools/libraries
+#### tools/libraries
 
 - [ctorm](https://github.com/ngn13/ctorm): Simple web framework for C
 - [ipcp](https://github.com/ngn13/ipcp): CLI tool to copy your IP
@@ -46,14 +46,14 @@
   personal forks
 - [tren](https://git.ngn.tf/ngn/tren): Frontend for tureng.com
 
-### docs/tutorials
+#### docs/tutorials
 
 - [kernel-101](https://github.com/ngn13/kernel-101): Learn about kernel hacking
   (Turkish 🇹🇷)
 - [overflow-101](https://github.com/ngn13/overflow-101): Learn about memory
   overflows (Turkish 🇹🇷)
 
-### personal
+#### personal
 
 - [website](https://git.ngn.tf/ngn/website): My personal website
 - [news](https://git.ngn.tf/ngn/news): News feed of my website
