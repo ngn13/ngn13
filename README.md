@@ -53,11 +53,6 @@
 - [overflow-101](https://github.com/ngn13/overflow-101): Learn about memory
   overflows (Turkish 🇹🇷)
 
-#### personal
-
-- [website](https://git.ngn.tf/ngn/website): My personal website
-- [news](https://git.ngn.tf/ngn/news): News feed of my website
-
 ---
 
 [Email](mailto:ngn@ngn.tf) • [Website](https://ngn.tf) •
